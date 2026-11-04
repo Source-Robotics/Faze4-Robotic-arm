@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  ![Issues](https://img.shields.io/github/issues/PCrnjak/Faze4-Robotic-arm) ![release](https://img.shields.io/github/v/release/PCrnjak/Faze4-Robotic-arm)
+[![License: CERN-OHL-S-2.0](https://img.shields.io/badge/license-CERN--OHL--S--2.0-blue)](LICENSE)  ![Issues](https://img.shields.io/github/issues/PCrnjak/Faze4-Robotic-arm) ![release](https://img.shields.io/github/v/release/PCrnjak/Faze4-Robotic-arm)
 # Faze4-Robotic-arm
 
 
@@ -52,5 +52,5 @@ By using, building, or modifying this project, you acknowledge and agree that:
 
 This project is provided “as is.” If you choose to build a device yourself using these files, designs, or instructions, you do so without any warranties or guarantees, including regarding safety, reliability, or suitability for any particular purpose.
 
-# Project is under MIT Licence
+# Project is under the [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](LICENSE) (CERN-OHL-S-2.0)
 

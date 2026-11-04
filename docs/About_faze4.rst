@@ -54,17 +54,6 @@ Check the arm in action !
     <iframe width="100%" height="350" src="https://www.youtube.com/embed/-qTVx23o6C0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
-Support the project
--------------------
-
-This project is completely Open source and free to all and I would like to keep it that way, so any help 
-in terms of donations or advice is really appreciated. Thank you!
-
-.. image:: ../docs/images/PayPal-Donate-Button-PNG-Clipart.png
-   :width: 230
-   :target: https://paypal.me/PCrnjak?locale.x=en_US
-
-
 Thanks to the:
 --------------
 * `Peter Corke for his amazing robotics toolbox for Matlab`_

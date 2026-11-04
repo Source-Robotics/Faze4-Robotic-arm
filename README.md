@@ -52,12 +52,5 @@ By using, building, or modifying this project, you acknowledge and agree that:
 
 This project is provided “as is.” If you choose to build a device yourself using these files, designs, or instructions, you do so without any warranties or guarantees, including regarding safety, reliability, or suitability for any particular purpose.
 
-# Support the project
-
-This project is entirely open source and free for all to use. Any support, whether through donations or advice, is greatly appreciated. Thank you!
-
- [![General badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PCrnjak?locale.x=en_US)
-[![General badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/PCrnjak)
-
 # Project is under MIT Licence
 

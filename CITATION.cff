@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Faze4 in your work, please cite it as below."
+title: "Faze4: open-source 3D-printed 6-axis robot arm with cycloidal gearboxes"
+type: software
+authors:
+  - name: Source Robotics
+    website: https://source-robotics.com
+  - given-names: Petar
+    family-names: Crnjak
+abstract: "A fully 3D-printable 6-axis robot arm with 3D-printed cycloidal gearboxes and hidden wiring, for research, education and anyone building their own arm: STL files, BOM, building instructions, electronics and code."
+repository-code: https://github.com/Source-Robotics/Faze4-Robotic-arm
+url: https://faze4-robotic-arm-docs.readthedocs.io/en/latest/
+license: CERN-OHL-S-2.0
+keywords:
+  - robot arm
+  - 6-DOF
+  - cycloidal gearbox
+  - 3D printing
+  - open-source hardware
+  - robotics
